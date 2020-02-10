@@ -6,6 +6,7 @@ align=center>
 align=center>
 <img src="https://github.com/sailyw/waimai/blob/master/img/~8J%7DAW1L5V%7B4S7%7BB8%7DTP85U.png?raw=true" width = "250" height = "" alt="图片名称" 
 align=center>
+<hr>
 <img src="https://github.com/sailyw/waimai/blob/master/img/%E6%88%91%E7%9A%84.png?raw=true" width = "250" height = "" alt="图片名称" 
 align=center>
 <img src="https://github.com/sailyw/waimai/blob/master/img/%E8%AE%A2%E5%8D%95.png?raw=true" width = "250" height = "" alt="图片名称" 
