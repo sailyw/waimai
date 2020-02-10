@@ -1,0 +1,105 @@
+.list-content{
+    overflow: hidden;
+    padding-bottom: 1.333333rem;
+}
+.list-content .list-title{
+    text-align: center;
+    font-size: .426667rem;
+    margin-top: .373333rem;
+    margin-bottom: .133333rem;
+}
+.list-content .title-line{
+    display: inline-block;
+    border-bottom: .026667rem solid #949494;
+    /* background-color: #949494; */
+    height: .026667rem;
+    width: .8rem;
+    margin-left: .106667rem;
+    margin-right: .106667rem;
+    margin-bottom: .106667rem;
+}
+.item-content{
+    display: flex;
+    padding-top: .4rem;
+    padding-bottom: .4rem;
+    margin-left: .266667rem;
+    margin-right: .266667rem;
+    color: #656565;
+    position: relative;
+}
+.item-content::after{
+    background-color: #e4e4e4;
+}
+.item-content .item-img{
+    width: 2.293333rem;
+    height: 1.733333rem;
+    border: .026667rem solid #e4e4e4;
+}
+.item-content .item-info-content{
+    flex: 1;
+    margin-left: .186667rem;
+    overflow: hidden;
+}
+.item-content .brand{
+    position: absolute;
+    left: .026667rem;
+    top: .426667rem;
+    font-size: .32rem;
+    padding: .053333rem;
+    color: #fff;
+}
+.item-content .brand-pin{
+    background-color: #ffa627;
+}
+.item-content .brand-xin{
+    background-color: #21c56c;
+}
+.item-content .item-title{
+    margin-top: .08rem;
+    font-size: .426667rem;
+    font-weight: 500;
+    color: #333333;
+}
+.item-content .item-desc{
+    margin-top: .346667rem;
+    font-size: .32rem;
+}
+.item-content .item-score{
+    float: left;
+}
+.item-content .item-count{
+    float: left;
+    margin-left: .133333rem;
+}
+.item-content .item-time , .item-content .item-distance{
+    float: right;
+}
+.item-content .item-price{
+    margin-top: .266667rem;
+    font-size: .32rem;
+    height: .64rem;
+}
+.item-content .other-info{
+    color: #898989;
+    margin-top: .186667rem;
+    font-size: .32rem;
+    display: flex;
+}
+.item-content .other-tag{
+    width: .373333rem;
+    height: .373333rem;
+}
+.item-content .other-content{
+    vertical-align: .08rem;
+    margin-left: .08rem;
+    height: .373333rem;
+    width: 6.133333rem;
+    margin-top: .026667rem;
+}
+.loading{
+    padding-bottom: .266667rem;
+    padding-top: .266667rem;
+    font-size: .426667rem;
+    text-align: center;
+    color: #ccc;
+}

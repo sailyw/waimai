@@ -1,0 +1,46 @@
+.bottom-bar{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 1.333333rem;
+    display: flex;
+    border-top: .026667rem solid #b6b6b6;
+    background-color: rgba(246,246,246,.95);
+}
+.bottom-bar .btn-item{
+    text-decoration: none;
+    flex: 1;
+    font-size: .293333rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+}
+.bottom-bar .btn-item .tab-icon{
+    margin-bottom: .106667rem;
+    width: .666667rem;
+    height: .666667rem;
+    background-size: cover;
+}
+.bottom-bar .btn-item.active{
+    color: #000;
+}
+.bottom-bar .btn-item.my.active .tab-icon{
+    background-image: url(./img/myIconActive.png);
+}
+.bottom-bar .btn-item.my .tab-icon {
+    background-image: url(./img/myIcon.png);
+  }
+  .bottom-bar .btn-item.order .tab-icon {
+    background-image: url(./img/orderIcon.png);
+  }
+  .bottom-bar .btn-item.order.active .tab-icon {
+    background-image: url(./img/orderIconActive.png);
+  }
+  .bottom-bar .btn-item.index .tab-icon {
+    background-image: url(./img/homeIcon.png);
+  }
+  .bottom-bar .btn-item.index.active .tab-icon {
+    background-image: url(./img/homeIconActive.png);
+  }
