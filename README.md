@@ -1,5 +1,4 @@
-![mahua](mahua-logo.jpg)
-## MaHua是什么?
-一个在线编辑markdown文档的编辑器
+## 系统运行截图
 
-向Mac下优秀的markdown编辑器mou致敬
+![mahua](https://github.com/sailyw/waimai/blob/master/img/A0F8V_YMFC$77%5BTJK%5D3M6E7.png?raw=true)
+
